@@ -1,0 +1,15 @@
+{
+  "name": "websockets",
+  "version": "1.0.0",
+  "description": "Socket Programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amol Chopra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3"
+  }
+}
